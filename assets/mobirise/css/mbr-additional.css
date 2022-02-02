@@ -902,7 +902,7 @@ blockquote {
 }
 @media (min-width: 992px) {
   .cid-sUlR1hlcws .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 50px - 1rem);
+    max-height: calc(100vh - 60px - 1rem);
   }
 }
 .cid-sUlR1hlcws .navbar.collapsed .dropdown-menu {
@@ -987,7 +987,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3a46;
+  background-color: #006db6;
 }
 .cid-sUlR1hlcws button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
